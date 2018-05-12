@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '4952'
     url: http://www.gutenberg.org/2009/agents/4952
 description: v. 1. Books I-IV.--v. 2. Books V-IX.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24146#A-Commentary-on-Herodotus
 gutenberg_issued: '2008-01-03'
 gutenberg_type: Text
 identifiers:
