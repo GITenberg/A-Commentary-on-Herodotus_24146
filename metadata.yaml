@@ -1,0 +1,33 @@
+_repo: A-Commentary-on-Herodotus_24146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: How, W. W. (Walter Wybergh)
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '26274'
+    url: http://www.gutenberg.org/2009/agents/26274
+  - agent_name: Wells, J. (Joseph)
+    alias: Wells, Joseph
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '4952'
+    url: http://www.gutenberg.org/2009/agents/4952
+description: v. 1. Books I-IV.--v. 2. Books V-IX.
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'History, Ancient'
+- !lcsh 'Herodotus. History'
+title: A Commentary on Herodotus
+url: http://www.gutenberg.org/ebooks/24146
